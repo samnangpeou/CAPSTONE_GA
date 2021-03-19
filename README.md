@@ -53,4 +53,4 @@ Pretty solid if you ask me.
 
 ## Conclusion and Recommendations:
 
-So no, this is not a number one hit. The snippets barely make sense. Although, with limited data, I was able to train a model that spat out words. Words in sequences that somewhat make sentences. That's a win. I did train an LSTM model and the loss drops a lot lower than the GRU model in later epochs. Extracting predictions from that LSTM model became a bit of a pain but in future iterations I'd like to revisit that issue and correct it to see how well an LSTM can predict lyrics.
+So no, these are not a number one hits. The snippets barely make sense. Although, with limited data, I was able to train a model that spat out words. Words in sequences that somewhat make sentences. That's a win. I did train an LSTM model and the loss drops a lot lower than the GRU model in later epochs. Extracting predictions from that LSTM model became a bit of a pain but in future iterations I'd like to revisit that issue and correct it to see how well an LSTM can predict lyrics. Thank you.
